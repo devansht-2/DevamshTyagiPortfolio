@@ -326,9 +326,9 @@ section {
   width: 300px;
   vertical-align: top;
   margin-right: 20px;
-  background-color: #313244;
+  background-color: #823137;
   border-radius: 10px;
-  border: #45475a 3px solid;
+  border: #a33c40 3px solid;
 
   /* The project will have padding of 20px between the content. */
   padding: 20px;
@@ -360,9 +360,9 @@ section {
   width: 300px;
   vertical-align: top;
   margin-right: 20px;
-  background-color: #313244;
+  background-color: #823137;
   border-radius: 10px;
-  border: #45475a 3px solid;
+  border: #a33c40 3px solid;
 
   /* The project will have padding of 20px between the content. */
   padding: 20px;
@@ -385,7 +385,7 @@ section {
 
 .contribution p {
   /* The paragraphs for each project will have a color of #7f849c. */
-  color: #7f849c;
+  color: #b56b6b;
 }
 
 
