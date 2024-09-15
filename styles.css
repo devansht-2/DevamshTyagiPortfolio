@@ -1,13 +1,13 @@
 :root {
-  --primary: #89b4fa;
+  --primary: #f74343;
   /* This is the primary color. */
   --secondary: #a6e3a1;
   /* This is the secondary color. */
-  --bg: #1e1e2e;
+  --bg: #b31212;
   /* This is the background color. */
-  --heading: #cdd6f4;
+  --heading: #f7b7b7;
   /* This is the color for headings. */
-  --text: #cdd6f4;
+  --text: #f7b7b7;
   /* This is the color for text. */
 }
 
